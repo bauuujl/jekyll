@@ -7,8 +7,6 @@ Getting started is *literally* as easy as 1-2-3 :smile:
 
 Scroll down to see the steps involved, but here is a 40-second video just as a reference as you work through the steps. If you don't already have a [GitHub account](https://github.com/join), you'll need to sign up.
 
-![Installation steps](assets/img/install-steps.gif)
-
 <div class="gs-section-01" markdown="1">
 
 ### 1. Fork this project
@@ -42,6 +40,12 @@ After you save your changes to the `_config.yml` file (by clicking on *Commit ch
 Note that this was the easy way to *create* your website, but it does come at a cost: when Beautiful Jekyll gains new features in the future, *updating* your website to include all the latest features is cumbersome. See the [FAQ](https://beautifuljekyll.com/faq/#updating) for help with upgrading in the future.
 
 <style>
+code {
+  background-color: #1F2A3A !important;
+  color: #79C0FF !important;
+  border: 1px solid #30363D !important;
+}
+  
 .gs-section-01 h3 { color: #FF6B6B; }
 .gs-section-01 p  { font-size: 22px; }
 
